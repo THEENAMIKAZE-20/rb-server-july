@@ -1,0 +1,206 @@
+{
+  "resumes": [
+    {
+      "fullName": "Arun Thomas",
+      "location": "Kochi, Kerala",
+      "job": "Machine Learning Engineer",
+      "email": "arun@example.com",
+      "phone": "9876543210",
+      "linkedin": "https://linkedin.com/in/arunkumar",
+      "github": "https://github.com/arunkumar",
+      "degree": "B.Tech Computer Science",
+      "college": "ABC College of Engineering",
+      "year": "2026",
+      "skills": [
+        "Python",
+        "TensorFlow",
+        "PyTorch",
+        "Scikit-learn",
+        "Deep Learning",
+        "Data Preprocessing",
+        "Model Deployment",
+        "Natural Language Processing",
+        "Computer Vision",
+        "MLOps"
+      ],
+      "summary": "Machine learning engineer experienced in developing, training, and deploying machine learning models. Skilled in data preprocessing, model evaluation, and AI-driven solution development.",
+      "id": 1
+    },
+    {
+      "fullName": "Ananya Nair",
+      "location": "Thiruvananthapuram, Kerala",
+      "job": "Frontend Developer",
+      "email": "ananya@example.com",
+      "phone": "9123456780",
+      "linkedin": "https://linkedin.com/in/ananyanair",
+      "github": "https://github.com/ananyanair",
+      "degree": "B.Sc. Computer Science",
+      "college": "Kerala University",
+      "year": "2025",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Responsive Design",
+        "Tailwind CSS",
+        "Bootstrap",
+        "DOM Manipulation",
+        "Cross Browser Compatibility",
+        "Git"
+      ],
+      "summary": "Creative frontend developer with expertise in building responsive and user-friendly web interfaces using HTML, CSS, JavaScript, and modern frameworks. Passionate about creating engaging user experiences and optimizing web performance.",
+      "id": 2
+    },
+    {
+      "fullName": "Rahul Menon",
+      "location": "Kozhikode, Kerala",
+      "job": "Node.js Developer",
+      "email": "rahul@example.com",
+      "phone": "9876501234",
+      "linkedin": "https://linkedin.com/in/rahulmenon",
+      "github": "https://github.com/rahulmenon",
+      "degree": "B.Tech Information Technology",
+      "college": "Malabar Institute of Technology",
+      "year": "2026",
+      "skills": [
+        "Node.js",
+        "Express.js",
+        "REST APIs",
+        "MongoDB",
+        "Authentication",
+        "Middleware",
+        "Server Side Logic",
+        "API Security",
+        "Database Integration",
+        "Git"
+      ],
+      "summary": "Node.js developer experienced in building scalable backend services and REST APIs. Skilled in server-side development, database integration, and performance optimization.",
+      "id": 3
+    },
+    {
+      "fullName": "Sneha Menon",
+      "location": "Thrissur, Kerala",
+      "job": "Frontend Developer",
+      "email": "sneh Menon@gmail.com",
+      "phone": "9123456780",
+      "linkedin": "linkedin.com/in/snehamenon",
+      "github": "github.com/snehamenon",
+      "degree": "B.Sc Computer Science",
+      "college": "St. Thomas College",
+      "year": "2024",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Responsive Design",
+        "Tailwind CSS",
+        "Bootstrap",
+        "DOM Manipulation",
+        "Cross Browser Compatibility",
+        "Git"
+      ],
+      "summary": "Creative frontend developer with expertise in building responsive and user-friendly web interfaces using HTML, CSS, JavaScript, and modern frameworks. Passionate about creating engaging user experiences and optimizing web performance.",
+      "id": 4
+    },
+    {
+      "fullName": "Rahul Nair",
+      "location": "Kozhikode, Kerala",
+      "job": "UI/UX Designer",
+      "email": "rahul.nair@gmail.com",
+      "phone": "9876543210",
+      "linkedin": "linkedin.com/in/rahulnair",
+      "github": "github.com/rahulnair\"",
+      "degree": "B.Tech Information Technology",
+      "college": "Government Engineering College",
+      "year": "2025",
+      "skills": [
+        "Figma",
+        "Adobe XD",
+        "Wireframing",
+        "Prototyping",
+        "User Research",
+        "Usability Testing",
+        "Interaction Design",
+        "Design Systems",
+        "Typography",
+        "Color Theory"
+      ],
+      "summary": "UI/UX designer focused on creating intuitive and visually appealing user experiences. Skilled in wireframing, prototyping, and user-centered design to improve product usability.",
+      "id": 6
+    }
+  ],
+  "downloads": [
+    {
+      "timeStamp": "10/25/2026,6:47:00 PM",
+      "resumeIMG": "https://res.cloudinary.com/c0q7uaxq/image/upload/v1792934218/t9wu38flyndposv8ngsg.png",
+      "resumeId": 1,
+      "jobRole": "Machine Learning Engineer",
+      "id": 1
+    },
+    {
+      "timeStamp": "10/25/2026,6:47:01 PM",
+      "resumeIMG": "https://res.cloudinary.com/c0q7uaxq/image/upload/v1792934220/g3ndqkken2qvlvp0noxv.png",
+      "resumeId": 1,
+      "jobRole": "Machine Learning Engineer",
+      "id": 2
+    },
+    {
+      "timeStamp": "10/25/2026,6:50:25 PM",
+      "resumeIMG": "https://res.cloudinary.com/c0q7uaxq/image/upload/v1792934424/c9mwn0tju6k5nhrxuahv.png",
+      "resumeId": 3,
+      "jobRole": "Node.js Developer",
+      "id": 3
+    },
+    {
+      "timeStamp": "10/26/2026,11:10:16 AM",
+      "resumeIMG": "https://res.cloudinary.com/c0q7uaxq/image/upload/v1792993211/iqd2bzrhexbmcuigvmt5.png",
+      "resumeId": 4,
+      "jobRole": "Frontend Developer",
+      "id": 4
+    },
+    {
+      "timeStamp": "10/26/2026,11:10:22 AM",
+      "resumeIMG": "https://res.cloudinary.com/c0q7uaxq/image/upload/v1792993219/ndnowhgolghsyudq6pnr.png",
+      "resumeId": 4,
+      "jobRole": "Frontend Developer",
+      "id": 5
+    },
+    {
+      "timeStamp": "10/26/2026,11:10:30 AM",
+      "resumeIMG": "https://res.cloudinary.com/c0q7uaxq/image/upload/v1792993227/ifpuo2qpyu6dpndevcgo.png",
+      "resumeId": 4,
+      "jobRole": "Frontend Developer",
+      "id": 6
+    },
+    {
+      "timeStamp": "10/26/2026,11:10:31 AM",
+      "resumeIMG": "https://res.cloudinary.com/c0q7uaxq/image/upload/v1792993227/d2jrbatry7dz5jasna6m.png",
+      "resumeId": 4,
+      "jobRole": "Frontend Developer",
+      "id": 7
+    },
+    {
+      "timeStamp": "10/26/2026,11:10:48 AM",
+      "resumeIMG": "https://res.cloudinary.com/c0q7uaxq/image/upload/v1792993246/ysawjpgf8gq3ncbzv04v.png",
+      "resumeId": 2,
+      "jobRole": "Frontend Developer",
+      "id": 8
+    },
+    {
+      "timeStamp": "10/26/2026,11:11:39 AM",
+      "resumeIMG": "https://res.cloudinary.com/c0q7uaxq/image/upload/v1792993298/riip97mp8jr55kutkioa.png",
+      "resumeId": 3,
+      "jobRole": "Node.js Developer",
+      "id": 9
+    },
+    {
+      "timeStamp": "10/26/2026,11:11:50 AM",
+      "resumeIMG": "https://res.cloudinary.com/c0q7uaxq/image/upload/v1792993308/whe45gqt4akjfbzqbjbv.png",
+      "resumeId": 6,
+      "jobRole": "UI/UX Designer",
+      "id": 10
+    }
+  ]
+}
